@@ -1,0 +1,16 @@
+.main{
+    text-align: center;
+    background-color: rgb(11, 11, 69);
+    color: white;
+    padding: 80px;
+}
+
+
+.main-button{
+        padding: 15px;
+        width: 300px;
+        background-color: green;
+        color: white;
+        border-radius: 2px;
+        box-shadow: 0px 0px 5px black;
+    }

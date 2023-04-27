@@ -1,0 +1,17 @@
+.rocket{
+   
+    margin-top:50px ;
+    display: flex;
+    justify-content: space-around;
+}
+.rocket img{
+    height: 200px;
+    width: 300px;
+}
+.rocket ul li{
+    list-style: none;
+    text-align: center;
+    line-height: 25px;
+    font-weight:bolder ;
+    color: rgb(11, 11, 69);
+}
